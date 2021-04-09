@@ -7,7 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a B.Sc. student at TH-Bingen.
 
-This is Nils Kirsten's home on the web!
-
-Lorem ipsum
