@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nils Kirsten"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer Science student at TH-Bingen (B.Sc.)"
+  location         : "Mainz-Bingen"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -112,7 +112,7 @@ author:
   twitter          : "nils_kirsten"
   vine             :
   weibo            :
-  xing             :
+  xing             :"Nils_Kirsten"
   youtube          :
   wikipedia        :
 
