@@ -7,5 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a B.Sc. student at TH-Bingen.
+I am a Computer Science student (B.Sc.) at TH-Bingen.
+
+
 
