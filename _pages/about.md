@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Computer Science student (B.Sc.) at TH-Bingen.
-Interested in Data Science and Machine Learning, currently employed as working student in Big Data & Analytics.
+Interested in Data Engineering, Streaming & Databasesm Data Science and Machine Learning.
+Currently employed in Big Data & Analytics.
 
 
 
